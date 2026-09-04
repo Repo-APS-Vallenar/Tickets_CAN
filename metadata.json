@@ -1,0 +1,6 @@
+{
+  "name": "CESFAM Tickets & Mantención",
+  "description": "Sistema de gestión de tickets operativos, inventario QR, clasificación con IA de impacto crítico, calendario de tareas y dashboard de disponibilidad para CESFAM.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
